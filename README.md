@@ -26,14 +26,14 @@ The code is heavily commented , each functionally each statement are comment so 
 
 I've made a video about the application running. So that  you guys can see how application look like before you take it
 
-#others
+# others
 I’m providing  database, also its relationship between tables and UML class diagram of application.
 
-#Authors
+# Authors
 Italo Evangelista Machado de Morais 
 Email: morais.italo@outlook.com
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
