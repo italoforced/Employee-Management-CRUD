@@ -25,6 +25,8 @@ The code is heavily commented , each functionally each statement are comment so 
 
 I've made a video about the application running. So that  you guys can see how application look like before you take it
 
+https://youtu.be/TsKAJl5xKEU
+
 # Built with
 * Window Builder
 
