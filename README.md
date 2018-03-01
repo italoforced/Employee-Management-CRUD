@@ -39,8 +39,8 @@ I’m providing  database, also its relationship between tables and UML class di
 <li>Imports the Project in your Eclipse</li>
 <li>Imports the database employeedatabase.sql in your my sql, if you are using via TERMINAL (line code) write it example:
  <p> source c:/POO/workspace/EmployeeCrud/sql/table-setup.sql</p></li>
- li>GO up the My sql Server</li>
- li>On class Start Application Run it and Enjoi it</li>
+ <li>GO up the My sql Server</li>
+ <li>On class Start Application Run it and Enjoi it</li>
 </ol>
 </body>
 </html>
