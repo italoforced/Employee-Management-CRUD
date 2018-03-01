@@ -31,6 +31,18 @@ I've made a video about the application running. So that  you guys can see how a
 # Others
 I’m providing  database, also its relationship between tables and UML class diagram of application.
 
+# How To Run
+<html>
+<body>
+<ol>
+<li>Car</li>
+<li>Truck</li>
+<li>Bicycle</li>
+</ol>
+</body>
+</html>
+
+
 # Authors
 Italo Evangelista Machado de Morais 
 Email: morais.italo@outlook.com
