@@ -9,11 +9,10 @@ This application pretty much is going be used by a Manager , where he’s going 
 * JDK 1.8
 * MySQL-client ( I used MySql Workbench and Terminal)
 * MySQL Server
-* Window Builder
 
 I can shared all this application portable if you want, give me a email (morais.italo@outlook.com)
 
-# to whom it may concern
+# To whom it may concern
 In this project I was in intent to create a simple crud application and to train a little bit of each  knowledge that I have. 
 
 Example: I could put a Custom swing  on all Jframe,or put  more  field to employee, but  I wanted  only to apply a bit of each knowledge that I have, as I’m beginner  maybe you can find any bugs, so be patient if you find them or find unnecessary things, but during testing I tried to consider all the issues and prevent them.
@@ -26,7 +25,10 @@ The code is heavily commented , each functionally each statement are comment so 
 
 I've made a video about the application running. So that  you guys can see how application look like before you take it
 
-# others
+# Built with
+* Window Builder
+
+# Others
 I’m providing  database, also its relationship between tables and UML class diagram of application.
 
 # Authors
